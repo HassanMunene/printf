@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_char - print char
+ * print_char - print char to
  * @i: i
  * @ptr: ptr
  * @format: format
